@@ -72,7 +72,7 @@
     "@corbe30/fortune-excel": "^2.3.3",
     "@earendil-works/pi-coding-agent": "0.85.1",
     "@fortune-sheet/react": "^1.0.4",
-    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@modelcontextprotocol/sdk": "^1.32.1",
     "@mozilla/readability": "^0.6.0",
     "docx-preview": "^0.4.0",
     "jsonc-parser": "^3.3.1",
